@@ -7,10 +7,6 @@ comments: false
 ---
 
 ---
-#### contact
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
-
 #### experience
 
 <span style="color: #aaa">_2021.01. -_</span><br/>
@@ -39,5 +35,11 @@ backend developer curriculum<br/>
 <span style="color: #aaa">_2016.03. - 2021.02._</span><br/>
 business / software venture<br/>
 **@Korea University**
+
+---
+
+#### contact
+- {{ site.author.email }}
+- github.com/{{ site.author.github }}
 
 
