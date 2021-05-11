@@ -12,17 +12,14 @@ comments: false
 <span style="color: #aaa">_2021.01. -_</span>
 software engineer<br/>
 [**@Woowa Bros.**](https://woowahan.com/)<br/>
-`Java`, `Kotlin` `Spring`, `Spring Boot`<br/>
 
 <span style="color: #aaa">_2019.05. - 2019.08._</span>
 web frontend developer<br/>
 [**@CampusFund**](https://campusfund.net/)<br/>
-`JavaScript`, `AngularJS`, `React`<br/>
 
 <span style="color: #aaa">_2017.08. - 2019.02._</span>
 web frontend developer<br/>
 [**@Dreamary**](https://www.dreamary.net/)<br/>
-`JavaScript`, `React`<br/>
 
 ---
 
