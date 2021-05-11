@@ -11,7 +11,7 @@ comments: false
 
 <span style="color: #aaa">_2021.01. -_</span>
 
-software engineer
+software engineer<br/>
 [**@Woowa Bros.**](https://woowahan.com/)
 `Java`, `Kotlin` `Spring`, `Spring Boot`
 
