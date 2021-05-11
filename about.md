@@ -7,7 +7,7 @@ comments: false
 ---
 
 ---
-### contact
+### ✉️ contact
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
 
