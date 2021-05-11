@@ -1,13 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-08-29 09:29:20 +0700
-categories: jekyll update
----
-
----
-date: 2020-06-24T08:36:24.959Z
 title: 팀 프로젝트 코딩 컨벤션 적용기
+date: 2020-06-24T08:36:24.959Z
+categories: techcourse
 ---
 ## 코딩 컨벤션?
 
