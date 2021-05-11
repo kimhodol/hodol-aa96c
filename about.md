@@ -6,11 +6,38 @@ excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+---
+## 👨🏻‍💻 experience
 
-If you have a question about him or else, just send a letter to him.
+<span style="color: #aaa">_2021.01. -_</span>
+software engineer
+[**@Woowa Bros.**](https://woowahan.com/)
+`Java`, `Kotlin` `Spring`, `Spring Boot`
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+<span style="color: #aaa">_2019.05. - 2019.08._</span>
+web frontend developer
+[**@CampusFund**](https://campusfund.net/)
+`JavaScript`, `AngularJS`, `React`
+
+<span style="color: #aaa">_2017.08. - 2019.02._</span>
+web frontend developer
+[**@Dreamary**](https://www.dreamary.net/)
+`JavaScript`, `React`
+
+---
+
+## 👨🏻‍🎓 education
+
+<span style="color: #aaa">_2020.02. - 2020.11._</span>
+backend developer curriculum
+[**@Woowahan Techcourse**](https://woowacourse.github.io/)
+
+<span style="color: #aaa">_2017.03. - 2019.12._</span>
+[**@likelion**](https://www.facebook.com/LikelionKU)
+
+<span style="color: #aaa">_2016.03. - 2021.02._</span>
+business / software venture
+**@Korea University**
 
 **may u needs ✨**
 
