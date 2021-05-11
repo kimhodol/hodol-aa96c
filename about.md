@@ -30,7 +30,6 @@ backend developer curriculum<br/>
 [**@Woowahan Techcourse**](https://woowacourse.github.io/)<br/>
 
 <span style="color: #aaa">_2017.03. - 2019.12._</span><br/>
-tutor<br/>
 [**@likelion**](https://www.facebook.com/LikelionKU)
 
 <span style="color: #aaa">_2016.03. - 2021.02._</span><br/>
