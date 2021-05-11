@@ -17,11 +17,11 @@ comments: false
 software engineer<br/>
 [**@Woowa Bros.**](https://woowahan.com/)<br/>
 
-<span style="color: #aaa">_2019.05. - 2019.08._</span>
+<span style="color: #aaa">_2019.05. - 2019.08._</span><br/>
 web frontend developer<br/>
 [**@CampusFund**](https://campusfund.net/)<br/>
 
-<span style="color: #aaa">_2017.08. - 2019.02._</span>
+<span style="color: #aaa">_2017.08. - 2019.02._</span><br/>
 web frontend developer<br/>
 [**@Dreamary**](https://www.dreamary.net/)<br/>
 
