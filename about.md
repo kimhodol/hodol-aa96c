@@ -39,7 +39,7 @@ business / software venture<br/>
 ---
 
 #### contact
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+{{ site.author.email }}<br/>
+github.com/{{ site.author.github }}
 
 
