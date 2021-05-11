@@ -7,7 +7,10 @@ comments: false
 ---
 
 ---
-## 👨🏻‍💻 experience
+- {{ site.author.email }}
+- github.com/{{ site.author.github }}
+
+### 👨🏻‍💻 experience
 
 <span style="color: #aaa">_2021.01. -_</span>
 software engineer<br/>
@@ -23,7 +26,7 @@ web frontend developer<br/>
 
 ---
 
-## 👨🏻‍🎓 education
+### 👨🏻‍🎓 education
 
 <span style="color: #aaa">_2020.02. - 2020.11._</span><br/>
 backend developer curriculum<br/>
@@ -36,7 +39,4 @@ backend developer curriculum<br/>
 business / software venture<br/>
 **@Korea University**
 
-**may u needs ✨**
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
