@@ -1,5 +1,5 @@
 ---
-title: Archive
+title: 아카이브
 permalink: /archive/
 layout: page
 excerpt: All post.
