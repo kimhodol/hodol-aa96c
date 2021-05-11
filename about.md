@@ -7,11 +7,11 @@ comments: false
 ---
 
 ---
-### contact
+#### contact
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
 
-### experience
+#### experience
 
 <span style="color: #aaa">_2021.01. -_</span><br/>
 software engineer<br/>
@@ -27,7 +27,7 @@ web frontend developer<br/>
 
 ---
 
-### education
+#### education
 
 <span style="color: #aaa">_2020.02. - 2020.11._</span><br/>
 backend developer curriculum<br/>
