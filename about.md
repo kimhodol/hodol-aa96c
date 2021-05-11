@@ -28,9 +28,9 @@ web frontend developer<br/>
 
 ## 👨🏻‍🎓 education
 
-<span style="color: #aaa">_2020.02. - 2020.11._</span>
-backend developer curriculum
-[**@Woowahan Techcourse**](https://woowacourse.github.io/)
+<span style="color: #aaa">_2020.02. - 2020.11._</span><br/>
+backend developer curriculum<br/>
+[**@Woowahan Techcourse**](https://woowacourse.github.io/)<br/>
 
 <span style="color: #aaa">_2017.03. - 2019.12._</span>
 [**@likelion**](https://www.facebook.com/LikelionKU)
