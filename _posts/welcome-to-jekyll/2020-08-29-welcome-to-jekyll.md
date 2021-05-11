@@ -8,8 +8,6 @@ categories: jekyll update
 ---
 date: 2020-06-24T08:36:24.959Z
 title: 팀 프로젝트 코딩 컨벤션 적용기
-author: 김호돌
-excerpt: 팀 프로젝트 시작에 앞서 코딩 컨벤션을 적용해보자.
 ---
 ## 코딩 컨벤션?
 
