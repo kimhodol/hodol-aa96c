@@ -1,8 +1,8 @@
-- title: home
+- title: 홈
   url: /
   external: false
 
-- title: archive
+- title: 아카이브
   url: /archive/
   external: false
 
