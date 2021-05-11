@@ -15,14 +15,14 @@ software engineer<br/>
 `Java`, `Kotlin` `Spring`, `Spring Boot`<br/>
 
 <span style="color: #aaa">_2019.05. - 2019.08._</span>
-web frontend developer
-[**@CampusFund**](https://campusfund.net/)
-`JavaScript`, `AngularJS`, `React`
+web frontend developer<br/>
+[**@CampusFund**](https://campusfund.net/)<br/>
+`JavaScript`, `AngularJS`, `React`<br/>
 
 <span style="color: #aaa">_2017.08. - 2019.02._</span>
-web frontend developer
-[**@Dreamary**](https://www.dreamary.net/)
-`JavaScript`, `React`
+web frontend developer<br/>
+[**@Dreamary**](https://www.dreamary.net/)<br/>
+`JavaScript`, `React`<br/>
 
 ---
 
