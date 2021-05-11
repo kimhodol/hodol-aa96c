@@ -11,7 +11,7 @@ comments: false
 
 <span style="color: #aaa">_2021.01. -_</span><br/>
 software engineer<br/>
-[**@woowa bros.**](https://woowahan.com/)<br/>
+[**@woowahan bros.**](https://woowahan.com/)<br/>
 
 <span style="color: #aaa">_2019.05. - 2019.08._</span><br/>
 web frontend developer<br/>
