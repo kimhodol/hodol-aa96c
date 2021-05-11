@@ -10,9 +10,9 @@ comments: false
 ## 👨🏻‍💻 experience
 
 <span style="color: #aaa">_2021.01. -_</span>
-software engineer
-[**@Woowa Bros.**](https://woowahan.com/)
-`Java`, `Kotlin` `Spring`, `Spring Boot`
+software engineer<br/>
+[**@Woowa Bros.**](https://woowahan.com/)<br/>
+`Java`, `Kotlin` `Spring`, `Spring Boot`<br/>
 
 <span style="color: #aaa">_2019.05. - 2019.08._</span>
 web frontend developer
