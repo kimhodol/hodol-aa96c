@@ -13,7 +13,7 @@ comments: false
 
 ### experience
 
-<span style="color: #aaa">_2021.01. -_</span>
+<span style="color: #aaa">_2021.01. -_</span><br/>
 software engineer<br/>
 [**@Woowa Bros.**](https://woowahan.com/)<br/>
 
