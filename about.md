@@ -29,11 +29,11 @@ web frontend developer<br/>
 backend developer curriculum<br/>
 [**@Woowahan Techcourse**](https://woowacourse.github.io/)<br/>
 
-<span style="color: #aaa">_2017.03. - 2019.12._</span>
+<span style="color: #aaa">_2017.03. - 2019.12._</span><br/>
 [**@likelion**](https://www.facebook.com/LikelionKU)
 
-<span style="color: #aaa">_2016.03. - 2021.02._</span>
-business / software venture
+<span style="color: #aaa">_2016.03. - 2021.02._</span><br/>
+business / software venture<br/>
 **@Korea University**
 
 **may u needs ✨**
