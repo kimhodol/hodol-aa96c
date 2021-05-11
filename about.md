@@ -14,11 +14,11 @@ software engineer<br/>
 [**@woowahan bros.**](https://woowahan.com/)<br/>
 
 <span style="color: #aaa">_2019.05. - 2019.08._</span><br/>
-web frontend developer<br/>
+frontend developer<br/>
 [**@campusfund**](https://campusfund.net/)<br/>
 
 <span style="color: #aaa">_2017.08. - 2019.02._</span><br/>
-web frontend developer<br/>
+frontend developer<br/>
 [**@dreamary**](https://www.dreamary.net/)<br/>
 
 ---
